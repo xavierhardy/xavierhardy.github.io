@@ -1,0 +1,9 @@
+# Site settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
+title: Welcome
+description: >
+  Random thoughts and tests
+url: https://xavierhardy.github.io
+github_username: xavierhardy
+theme: jekyll-theme-cayman
